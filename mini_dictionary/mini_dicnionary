@@ -1,0 +1,19 @@
+class my_dictionary():
+    def __init__(self, index):
+        self.index = index
+        self.dicrionary = {"0": "Dog", "1": "cat"}
+
+    def search(self, index):
+        print(self.dicrionary[str(index)])
+
+
+
+
+
+
+
+
+dictionary1 = my_dictionary(0)
+dictionary1.search(0)
+
+
