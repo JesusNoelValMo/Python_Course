@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5633b213-5536-4927-9356-c030377d8008" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/infinite_arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Return_values.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,10 +14,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/infinite_arguments.py">
+        <entry file="file://$PROJECT_DIR$/Return_values.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="119">
+              <caret line="7" column="60" lean-forward="true" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -39,6 +39,8 @@
       <list>
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/infinite_arguments.py" />
+        <option value="$PROJECT_DIR$/Retirn_values.py" />
+        <option value="$PROJECT_DIR$/Return_values.py" />
       </list>
     </option>
   </component>
@@ -83,7 +85,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.infinite_arguments">
+  <component name="RunManager" selected="Python.Return_values">
+    <configuration name="Return_values" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="My_Python_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Return_values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="infinite_arguments" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="My_Python_Projects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,6 +151,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Return_values" />
         <item itemvalue="Python.infinite_arguments" />
         <item itemvalue="Python.main" />
       </list>
@@ -158,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575157949542</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adding flexible number of arguments for a function example:&#10;Using a &quot;*&quot; we specify that our function is going to take different&#10;numbers of arguments, we can see it like a list variable.">
+      <created>1575158461501</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575158461501</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -187,7 +218,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding default parameters example" />
     <MESSAGE value="Adding Keyword arguments, this is for pass the arguments in different&#10;order or to specify which arguments are you passing to a function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Keyword arguments, this is for pass the arguments in different&#10;order or to specify which arguments are you passing to a function" />
+    <MESSAGE value="Adding flexible number of arguments for a function example:&#10;Using a &quot;*&quot; we specify that our function is going to take different&#10;numbers of arguments, we can see it like a list variable." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding flexible number of arguments for a function example:&#10;Using a &quot;*&quot; we specify that our function is going to take different&#10;numbers of arguments, we can see it like a list variable." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
@@ -200,7 +232,14 @@
     <entry file="file://$PROJECT_DIR$/infinite_arguments.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Return_values.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="60" lean-forward="true" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
         </state>
       </provider>
     </entry>
